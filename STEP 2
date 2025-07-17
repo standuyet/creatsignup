@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta name="referrer" content="no-referrer">
+  <script>
+    setTimeout(function() {
+      window.location.replace("https://www.stan.store/?ref=linhdao22&utm_source=instagram&utm_medium=referral");
+    }, 100);
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fafafa;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+      color: #555;
+    }
+    img {
+      width: 50px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo">
+  <p>Redirecting to Stan Store...</p>
+</body>
+</html>
